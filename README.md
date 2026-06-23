@@ -1,5 +1,3 @@
-Here is the updated Markdown for your `README.md` file. I have removed the separate `requirements.txt` step and integrated the installation instructions so that anyone viewing your repository knows they only need to install `colorama` directly.
-
 ```markdown
 # SecurePass - Password Strength Checker
 
@@ -53,13 +51,5 @@ Strength: Medium 🟳 (3/5)
 Suggestions to improve:
 - Make it at least 8 characters long.
 - Add a lowercase letter.
-
-```
-
-## License
-
-This project is licensed under the MIT License.
-
-```
 
 ```
