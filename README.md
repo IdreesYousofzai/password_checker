@@ -1,9 +1,8 @@
 <img width="393" height="139" alt="image" src="https://github.com/user-attachments/assets/09ded68f-6b35-47d4-b6fa-7ed2c4f85eeb" />
+
+
 ```markdown
 # SecurePass - Password Strength Checker
-
-<img width="393" height="139" alt="image" src="image.png" />
-
 
 A lightweight, terminal-based Python utility that evaluates the strength of a password in real-time. It analyses the input against standard security rules and provides colour-coded feedback alongside actionable suggestions for improvement.
 
